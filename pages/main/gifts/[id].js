@@ -1,7 +1,12 @@
-import React from 'react';
+import React, { useEffect} from 'react';
 
 const GiftDetail = (props) =>{
     console.log(props);
+
+    useEffect(() => {
+      window.location.replace("loyalty://main/gifts/" + props.id);
+    }, []);
+    
 
     return (<div>
         {'Random text, id is '+props.id}
