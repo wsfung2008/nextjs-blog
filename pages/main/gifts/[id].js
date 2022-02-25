@@ -4,7 +4,9 @@ const GiftDetail = (props) =>{
     console.log(props);
 
     useEffect(() => {
-      window.location.replace("loyalty://main/gifts/" + props.id);
+        if (props.id!=23){
+            window.location.replace("loyalty://main/gifts/" + props.id);
+        }
     }, []);
     
 
