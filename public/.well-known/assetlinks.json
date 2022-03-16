@@ -2,8 +2,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.huynh.maziReactNative",
+      "package_name": "com.mediconcen.loyalty",
       "sha256_cert_fingerprints":
-      ["9D:E9:76:E1:71:71:1D:EC:2B:6D:A2:8F:27:A6:0A:A6:1F:B4:5E:A5:79:D7:4D:33:28:CC:4C:8D:45:DF:9C:7E"]
+      ["B5:AC:B6:D7:FE:74:73:D8:AE:37:5F:30:89:DD:A5:92:54:AE:C6:BE"]
     }
 }]
