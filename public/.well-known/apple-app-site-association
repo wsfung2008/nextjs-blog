@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "JP9PFZG4L4.com.mediconcen.loyalty",
+                "appID": "JP9PFZG4L4.org.reactjs.native.example.MCCDeepLinkTest",
                 "paths":[ "*" ]
             }
         ]
